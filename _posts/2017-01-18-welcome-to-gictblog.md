@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to GICT Blog!"
 date:   2017-01-18 14:12:01 +0800
 categories: welcom
-tag: happy
+tag: log
 ---
 
 * content
