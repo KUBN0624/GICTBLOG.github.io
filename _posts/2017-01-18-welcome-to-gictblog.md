@@ -16,7 +16,7 @@ tag: log
 logo
 ------------------------
 
-logo2
+logo2s
 ------------------------
 
 ![logo]({{ '/styles/images/logo.png' | prepend: site.baseurl  }})
