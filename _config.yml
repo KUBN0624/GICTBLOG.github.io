@@ -9,7 +9,7 @@ baseurl: "/GICTBLOG.github.io"
 description: Welcome To GICT Company Blog!!
 meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
 motto: GLOBAL INFOMATION AND COMMUNICATION TECHNOLOGIES
-banner: 学而不思则罔，思而不学则殆。
+banner: 
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
