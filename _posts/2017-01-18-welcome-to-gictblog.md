@@ -17,7 +17,7 @@ logo
 ------------------------
 
 
-![logo]({{ '/styles/images/logo.png' | prepend: site.baseurl  }})
+({{ '/styles/images/logo.png' | prepend: site.baseurl  }})
 
 
 GICT Blog에 오신걸 환영합니다.
